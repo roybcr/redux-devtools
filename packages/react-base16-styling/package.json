@@ -44,7 +44,7 @@
     "@types/lodash": "^4.14.179",
     "base16": "^1.0.0",
     "color": "^3.2.1",
-    "csstype": "^3.0.10",
+    "csstype": "^3.0.11",
     "lodash.curry": "^4.1.1"
   },
   "devDependencies": {
@@ -57,10 +57,10 @@
     "@types/color": "^3.0.3",
     "@types/jest": "^27.4.1",
     "@types/lodash.curry": "^4.1.6",
-    "@typescript-eslint/eslint-plugin": "^5.12.1",
-    "@typescript-eslint/parser": "^5.12.1",
-    "eslint": "^8.10.0",
-    "eslint-config-prettier": "^8.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint": "^8.11.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jest": "^26.1.1",
     "jest": "^27.5.1",
     "rimraf": "^3.0.2",
